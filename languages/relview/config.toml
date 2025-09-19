@@ -1,5 +1,6 @@
 name = "RelView"
 grammar = "relview"
 path_suffixes = ["prog"]
+block_comment = { start = "{", prefix = "", end = "}", tab_size = 0 }
 tab_size = 2
 hard_tabs = false

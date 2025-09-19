@@ -8,4 +8,4 @@ repository = "https://github.com/Benjamin-Davies/zed-relview"
 
 [grammars.relview]
 repository = "https://github.com/Benjamin-Davies/tree-sitter-relview"
-rev = "98e02d963e8a0be3538e8902328506cba8b073ad"
+rev = "12b6c1326f9c011b63b7754612618f96efd56292"
