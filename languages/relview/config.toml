@@ -1,0 +1,5 @@
+name = "RelView"
+grammar = "relview"
+path_suffixes = ["prog"]
+tab_size = 2
+hard_tabs = false
