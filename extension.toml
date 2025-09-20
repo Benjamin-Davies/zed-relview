@@ -8,4 +8,9 @@ repository = "https://github.com/Benjamin-Davies/zed-relview"
 
 [grammars.relview]
 repository = "https://github.com/Benjamin-Davies/tree-sitter-relview"
-rev = "12b6c1326f9c011b63b7754612618f96efd56292"
+rev = "c6e39673bde6cc13db93c4bbb7ea0dbc383f96f8"
+
+[grammars.relview_relation]
+repository = "https://github.com/Benjamin-Davies/tree-sitter-relview"
+rev = "c6e39673bde6cc13db93c4bbb7ea0dbc383f96f8"
+path = "relation"

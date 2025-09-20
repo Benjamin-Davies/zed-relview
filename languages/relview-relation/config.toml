@@ -1,0 +1,5 @@
+name = "RelView Relation"
+grammar = "relview_relation"
+path_suffixes = ["ascii"]
+tab_size = 2
+hard_tabs = false
