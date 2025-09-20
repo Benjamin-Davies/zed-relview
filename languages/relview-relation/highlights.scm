@@ -1,6 +1,9 @@
-(identifier) @variable
-(number) @number
+(header (identifier) @variable)
+(domain (number) @number)
+(line (number) @number)
+(number_list (number) @number)
 
-["(" ")"] @punctuation.bracket
-"," @punctuation.delimiter
-":" @punctuation.operator
+(header ["(" ")"] @punctuation.bracket)
+(domain "," @punctuation.delimiter)
+(line ":" @punctuation.operator)
+(number_list "," @punctuation.delimiter)
